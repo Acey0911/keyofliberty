@@ -29,7 +29,7 @@ body {
     color: black;
 }
 
-a {
+.bar-link {
     color: gainsboro;
     margin: 2%;
     padding: 10px;
@@ -64,4 +64,17 @@ a:hover {
 .nr4 {
     left:45%;
     top:1600px;
+}
+
+.kidlink {
+    color: lightblue;
+    font-size: 30px;
+    shadow: 2px 2px 3px black;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+}
+
+.klinkcontent {
+    padding: 20px;
+    text-align: center;
 }
