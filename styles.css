@@ -80,7 +80,8 @@ body {
 
 .kidlink:hover {
     color: yellow;
-    font-weight: bold;
+    box-shadow: 4px 4px 4px black;
+    transform: translateX(-2px) translateY(-2px);
 }
 
 .klinkcontent {
